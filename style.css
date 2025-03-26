@@ -1,0 +1,48 @@
+.destaque{
+    color:red;
+    font-weight: bold;
+}
+
+
+.link{
+    color: blue;
+
+
+}
+.link:hover{
+    color: red;
+}
+.div{
+    width: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: lightgreen;
+}
+
+.span{
+    display: block;
+    background-color: gray;
+    margin: 5px;
+}
+
+.invisivel{
+    visibility: hidden;
+}
+
+.estatico{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: yellow;
+}
+
+.container{
+    background-color: lightgrey;
+    display: flex;
+    padding: 10px;
+}
+.item{
+    
+}
